@@ -1,4 +1,4 @@
-# 
+# custom JetBrains IntelliJ IDEA para PC addons é o melhor JetBrains IntelliJ IDEA para PC addons com visualização de branches e integração com terminal. Seguro, confiável e
 
 
 
